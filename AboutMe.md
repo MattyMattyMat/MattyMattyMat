@@ -3,6 +3,7 @@
 --Learning python and lua
 --Planning to get on pc building
 --Join my server https://discord.gg/M9qBVT7j
+--Azerbaijani 
 
 <My Socials>
 youtube.com/@MattyIeraw
